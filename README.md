@@ -1,4 +1,4 @@
-# ai-trading-journal2
+# ai-trading-journal
 # AI 交易日誌
 
 姓名：（填入你的名字）
